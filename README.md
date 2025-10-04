@@ -1,0 +1,2 @@
+# jwdcorevalue
+CoreValue
